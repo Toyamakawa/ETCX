@@ -12,7 +12,7 @@ flowchart LR
     UC5(["ETC決済を行う"])
   end
 
-  etcx(["🏦 ETCXシステム\n(メイテツコム・NEXCO\n・ソニーペイメント)"])
+  etcx(["🏦 ETCXシステム(メイテツコム・NEXCO・ソニーペイメント)"])
 
   driver --- UC1
   driver --- UC3
